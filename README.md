@@ -1,16 +1,11 @@
-# local_cep
+# localCEP 
 
-A new Flutter project.
+Projeto feito em flutter, com o objetivo de aprender o padrão BLOC
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Sobre o projeto: 
+Estou utilizando a API do ViaCep para obter os dados 
+e mostro esses dados em um Card caso o cep não seja válido, mostro uma mensagem dizendo que o CEP não foi encontrado.
 
-A few resources to get you started if this is your first Flutter project:
+para reatividade estou usando Stream com o padrão BLOC        
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
